@@ -12,5 +12,7 @@ public class App
         System.out.println( "This is a simple Java application." );
         System.out.println( "Moikka Joonas" );
         System.out.println( "Moikka Joose jousag Kukkola" );
+        System.out.println( "Hellouu" );
+    
     }
 }
